@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    background-image: url(game\ img.png.jpg);
+    background-position: relative;
+    background-size: cover;
+}
+.box{
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 5px solid black;
+    margin: 1rem;
+}
+.l1{
+    justify-content: center;
+    display: flex;
+}
+.l2{
+    justify-content: center;
+    display:flex;
+}
+.a{
+    background-color:red;
+}
+.b{
+    background-color:blue;
+}
+.c{
+    background-color:greenyellow;
+}
+.d{
+    background-color:yellow;
+}
+.flash{
+    background-color:white;
+}

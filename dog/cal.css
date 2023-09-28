@@ -1,0 +1,39 @@
+.cal{
+    height: 500px;
+    width: 300px;
+    border: 2px solid white;
+    background-color: rgb(36, 33, 33);
+    margin: auto;
+    margin-top: 30px;
+    border-radius: 10%;
+    
+}
+.out{
+    height:200px;
+    width: 300px;
+    background-color: white;
+    border-radius: 10%;
+    display: flex;
+    flex-direction: row-reverse;
+    border: 2px solid black;
+}
+.ope{
+    width: 70px;
+    height: 50px;
+    background-color: whitesmoke;
+    margin: 2px;
+    border-radius: 2px;
+    text-align: center;
+    font-size: 2rem;
+}
+.ope1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 9px;
+}
+#p{
+    margin-top: 150px;
+    font-size: 2rem;
+}
+
